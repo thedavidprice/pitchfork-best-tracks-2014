@@ -22,7 +22,7 @@ OAUTH_TOKEN = ' '`
 3. **Save** the OAUTH token and secret that print out. Paste them into rdio_cred.py
 
 ##Finally, Create the Playlist
-Once you're ready to rock (pun intended), just run rdio_make.py
+Once you're ready to rock (pun intended), just run `rdio_make.py`
 
 Enjoy!
 
