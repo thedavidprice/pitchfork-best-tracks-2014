@@ -2,7 +2,7 @@
 ==========================
 http://pitchfork.com/features/staff-lists/9555-the-100-best-tracks-of-2014
 
-Simple python script to generate an Rdio playlist from a import.io data scrape of Pitchfork's website.
+Simple python script to generate an Rdio playlist from a www.import.io data scrape of Pitchfork's website.
 
 ##Setup
 1. You'll need an API Key. Sign up for Rdio Mashery via the "Manage Apps" link here: http://www.rdio.com/developers/
