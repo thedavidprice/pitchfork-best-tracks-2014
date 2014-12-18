@@ -21,8 +21,8 @@ OAUTH_TOKEN = ' '`
 2. Run the rdio_api_auth.py script from console. Follow the instructions to Authenticate including copy/paste url into browser to get the pin.
 3. **Save** the OAUTH token and secret that print out. Paste them into rdio_cred.py
 
-##Current Status
-Authentication is working correctly. However, I can't seem to implement createPlaylist or addToPlaylist correctly. The methods aren't doing anything.
+##Finally, Create the Playlist
+Once you're ready to rock (pun intended), just run rdio_make.py
 
-NOTE: There are two different rdio modules to choose from. Just use the simple one.
+Enjoy!
 
