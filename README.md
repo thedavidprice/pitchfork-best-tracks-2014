@@ -1,6 +1,10 @@
 #Pitchfork Best Tracks of 2014: Rdio Playlist
 ==========================
+_Original List Here:_  
 http://pitchfork.com/features/staff-lists/9555-the-100-best-tracks-of-2014
+
+_Rdio Playlist Here:_  
+http://rd.io/x/QVFJ8zPkeEw/
 
 Simple python script to generate an Rdio playlist from a www.import.io data scrape of Pitchfork's website.
 
