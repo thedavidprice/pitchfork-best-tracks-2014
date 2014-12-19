@@ -30,3 +30,10 @@ Once you're ready to rock (pun intended), just run `rdio_make.py`
 
 Enjoy!
 
+##TO DO
+- [ ] Needs fuzzy search and/or better matching
+- [ ] Output list of missing tracks
+- [ ] (?) Cron inspector to 1) remove tracks no longer available and/or 2) add tracks now available
+- [ ] (?) Db
+- [ ] (?) Option to go through auth each time or save use tokens
+
